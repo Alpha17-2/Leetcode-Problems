@@ -1,6 +1,7 @@
 Solving leetcode problems
 
-<img src="my_leetcode.png" height="600em" />
+<img src="my_leetcode1.png" height="500em" /> | <img src="my_leetcode2png" height="500em" />
+
 
 # Show some :heart: and star the repo to support the project.
 
